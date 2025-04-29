@@ -1,12 +1,9 @@
-This is a course project. 
+# Hofstadter Butterfly and Topological Properties
 
-# pdf file
-A note for studying the hofstadter butterfly and topological properties. 
+This repository explores the **Hofstadter butterfly** — a fractal energy spectrum emerging in two-dimensional electron systems under strong magnetic fields — and investigates its associated **topological invariants**, such as the **Chern numbers** of energy bands.
 
-# png file
-Can see the beautiful butterfly. 
+## Scientific Background
 
-# mp4 file
-See chiral propagation. 
-
-For any correspondence, you may contact me at mengjie.yang@u.nus.edu
+When a 2D periodic lattice is subjected to a uniform magnetic flux, the competition between lattice periodicity and magnetic periodicity gives rise to:
+- A **self-similar fractal** spectrum (Hofstadter butterfly, 1976).
+- **Nontrivial Chern numbers** associated with each energy gap (Thouless, Kohmoto, Nightingale, den Nijs, 1982).
